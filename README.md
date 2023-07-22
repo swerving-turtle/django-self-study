@@ -5,7 +5,7 @@
     python manage.py runsever
     python manage.py startapp your_appname
 ### 발생한 오류
-- [fatal: unable to access ~ The requested * URL returned error: 403 에러](https://velog.io/@jiumn/github-error-unable-to-access)
+* [fatal: unable to access ~ The requested * URL returned error: 403 에러](https://velog.io/@jiumn/github-error-unable-to-access)
     - description
         - **문제 상황**
             - github repo를 만들었다. 
@@ -33,3 +33,5 @@
     python manage.py migrate
     python manage.py shell
     python manage.py createsuperuser
+
+## [참고자료3](https://docs.djangoproject.com/en/4.2/intro/tutorial03/)
