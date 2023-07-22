@@ -1,7 +1,11 @@
 # 장고 자습
 ## [참고자료1](https://docs.djangoproject.com/en/4.2/intro/tutorial01/)
+### 학습한 장고 명령어
+    django-admin startproject mysite => python -m django startproject mysite
+    python manage.py runsever
+    python manage.py startapp your_appname
 ### 발생한 오류
-* [fatal: unable to access ~ The requested * URL returned error: 403 에러](https://velog.io/@jiumn/github-error-unable-to-access)
+- [fatal: unable to access ~ The requested * URL returned error: 403 에러](https://velog.io/@jiumn/github-error-unable-to-access)
     - description
         - **문제 상황**
             - github repo를 만들었다. 
@@ -23,3 +27,9 @@
                 - VSC에서 진행한 Django 프로젝트는 anaconda 가상환경을 사용했다.
 
 ## [참고자료2](https://docs.djangoproject.com/en/4.2/intro/tutorial02/)
+### 학습한 장고 명령어
+    python manage.py makemigrations your_appname
+    python manage.py sqlmigrate your_appname 0001
+    python manage.py migrate
+    python manage.py shell
+    python manage.py createsuperuser
