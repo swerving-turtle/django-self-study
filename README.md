@@ -42,3 +42,8 @@
     django.shortcuts.render()
     django.shortcuts.get_object_or_404()
     django.shortcuts.get_list_or_404()
+
+## [참고자료4](https://docs.djangoproject.com/en/4.2/intro/tutorial04/)
+### 학습한 장고 메서드
+    django.views.generic.ListView()
+    django.views.generic.DetailView()
