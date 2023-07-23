@@ -54,3 +54,5 @@
     django.test.utils.setup_test_environment()
 
 ## [참고자료6](https://docs.djangoproject.com/en/4.2/intro/tutorial06/)
+
+## [참고자료8](https://docs.djangoproject.com/en/4.2/intro/tutorial08/)
