@@ -47,3 +47,8 @@
 ### 학습한 장고 메서드
     django.views.generic.ListView()
     django.views.generic.DetailView()
+
+## [참고자료5](https://docs.djangoproject.com/en/4.2/intro/tutorial05/)
+### 학습한 장고 메서드
+    django.test.TestCase()
+    django.test.utils.setup_test_environment()
