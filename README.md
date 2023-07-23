@@ -35,3 +35,10 @@
     python manage.py createsuperuser
 
 ## [참고자료3](https://docs.djangoproject.com/en/4.2/intro/tutorial03/)
+### 학습한 장고 개념
+    template system
+    Namespacing URL names
+### 학습한 장고 메서드
+    django.shortcuts.render()
+    django.shortcuts.get_object_or_404()
+    django.shortcuts.get_list_or_404()
