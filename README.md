@@ -1,4 +1,4 @@
-# 장고 자습
+# 장고 자습1
 ## [참고자료1](https://docs.djangoproject.com/en/4.2/intro/tutorial01/)
 ### 학습한 장고 명령어
     django-admin startproject mysite => python -m django startproject mysite
@@ -52,3 +52,5 @@
 ### 학습한 장고 메서드
     django.test.TestCase()
     django.test.utils.setup_test_environment()
+
+## [참고자료6](https://docs.djangoproject.com/en/4.2/intro/tutorial06/)
