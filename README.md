@@ -1,4 +1,4 @@
-# 장고 자습1
+# 장고 자습1(Polls App)
 ## [참고자료1](https://docs.djangoproject.com/en/4.2/intro/tutorial01/)
 ### 학습한 장고 명령어
     django-admin startproject mysite => python -m django startproject mysite
@@ -56,3 +56,8 @@
 ## [참고자료6](https://docs.djangoproject.com/en/4.2/intro/tutorial06/)
 
 ## [참고자료8](https://docs.djangoproject.com/en/4.2/intro/tutorial08/)
+
+# 장고 자습2(To Do Lists App)
+## [참고자료1](https://realpython.com/django-todo-lists/)
+## [참고자료2](https://pythonistaplanet.com/to-do-list-app-using-django/#google_vignette)
+## [참고자료3](https://www.pythontutorial.net/django-tutorial/django-todo-app/)
